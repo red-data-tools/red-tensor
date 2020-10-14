@@ -5,7 +5,7 @@ Tensor provides the programming interface and the backend protocol for operating
 ## Install
 
 ```console
-$ gem install red-tensor
+$ gem install tensor
 ```
 
 ## Usage
